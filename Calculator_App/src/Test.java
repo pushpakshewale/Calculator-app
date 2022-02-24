@@ -9,6 +9,8 @@ public class Test {
 	double ans3=o.multiply(10, 15);
 	double ans4=o.divide(10, 2);
 	
+	System.out.println("Welcome to my calculator app");
+	
 	System.out.println(ans);
 	System.out.println(ans2);
 	System.out.println(ans3);
